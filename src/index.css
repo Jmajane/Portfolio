@@ -39,7 +39,7 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url(../src/assets/bg-texture.png)
+    background-image: url(../src/assets/bg-texture.png);
 }
 
 
@@ -111,4 +111,28 @@ img {
     display: block;
     width: 100%;
     object-fit: cover;
+}
+
+/* MEDIA QEURIES (MEDIUM DEVICES) */
+
+@media screen and (max-width: 1024px) {
+    .container {
+        width: var(--container-width-md);
+    }
+
+    section {
+        margin-top: 6rem;
+    }
+}
+
+/* MEDIA QEURIES (SMALL DEVICES) */
+
+@media screen and (max-width: 600px) {
+    .container {
+        width: var(--container-width-sm);
+    }
+
+    section > h2 {
+        margin-bottom: 2rem;
+    }
 }
