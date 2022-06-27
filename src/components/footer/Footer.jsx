@@ -8,7 +8,7 @@ const Footer = () => {
     <footer>
       <a href="#" className='footer__logo'>Jordan Majane</a>
 
-      <ul>
+      <ul className='permalinks'>
         <li><a href='#'>Home</a></li>
         <li><a href='#about'>About</a></li>
         <li><a href='#experience'>Experience</a></li>
@@ -21,6 +21,10 @@ const Footer = () => {
       <div className="footer__socials">
         <a href="https://www.linkedin.com/in/jordan-majane/"><BsLinkedin /></a>
         <a href="https://github.com/Jmajane"><BsGithub /></a>
+      </div>
+
+      <div className="footer__copyright">
+        <small>&copy; Jordan Majane Portfolio. All rights reserved</small>
       </div>
     </footer>
   )
