@@ -16,7 +16,7 @@ const reviews = [
   {
     avatar: AVTR1,
     name: "Joshua Smith",
-    review: "Blah Blah Blah",
+    review: "I have worked with Jordan on a number of sprint and have found him to be is inquisitive, great in a paired programming environment because he  is never afraid to questions his own assumptions. Jordan is whip-smart and an asset to any team.",
   },
   {
     avatar: AVTR1,
@@ -26,7 +26,7 @@ const reviews = [
   {
     avatar: AVTR1,
     name: "Brian Krabec",
-    review: "Blah Blah Blah",
+    review: "It has been a pleasure working with Jordan during project weeks and throughout the cohort. Jordans ability to create full-stack applications, troubleshoot, and contribute in a pair-programming setting exceeds expectations. I am confident that Jordan will make great strides as a software engineer!",
   },
 ]
 
@@ -34,7 +34,7 @@ const reviews = [
 const Testimonials = () => {
   return (
     <section id='testimonials'>
-      <h5>Reviews from</h5>
+      <h5>Reviews from Industry Professionals</h5>
       <h2>Testimonials</h2>
 
       <Swiper className='container testimonials__container'
