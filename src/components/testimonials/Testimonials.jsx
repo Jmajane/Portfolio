@@ -21,7 +21,7 @@ const reviews = [
   {
     avatar: AVTR1,
     name: "Michael Howey",
-    review: "Blah Blah Blah",
+    review: "Jordan is a diligent, hard-working, and persistent developer. He was a strong member of the cohort and was always quick to help others understand new and challenging topics. Any team would be lucky to have him.",
   },
   {
     avatar: AVTR1,
