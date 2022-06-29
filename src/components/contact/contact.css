@@ -37,7 +37,8 @@
 }
 
 #contact h5 {
-    color: var(--color-light)
+    color: var(--color-light);
+    word-wrap: break-word;
 }
 
 /* FORM */

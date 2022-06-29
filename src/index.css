@@ -14,10 +14,10 @@
 :root {
     --color-bg: #1f1f38;
     --color-bg-variant: #2c2c6c;
-    --color-primary: #45f123d9;
+    --color-primary: #12e415e8;
     --color-primary-variant: rgba(77, 181, 255, 0.4);
     --color-white: #fff;
-    --color-light: rgb(5, 255, 18);
+    --color-light: rgb(29, 237, 39);
 
     --transition: all 400ms ease;
 
@@ -115,6 +115,7 @@ img {
 
 h5 {
     font-size: 1rem;
+    word-wrap: break-word;
 }
 
 /* MEDIA QEURIES (MEDIUM DEVICES) */
