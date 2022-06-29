@@ -43,7 +43,7 @@ const About = () => {
             A Marine Corps Veteran turned into a Software Developer. Someone who
             enjoys puzzles and troubleshooting almost as much as gaming. Always 
             excited to learn to add to my toolbox of knowledge. Sometimes you
-            need someone in your corner who wont back down. 
+            need someone in your corner who won't back down. 
           </p>
           <a href="contact" className='btn btn-primary'>Let's Talk</a>
         </div>
