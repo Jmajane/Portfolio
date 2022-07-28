@@ -4,6 +4,7 @@ import WAR from '../../assets/war.png'
 import STREAMDREAM from '../../assets/streamdream.png'
 import DISNEY from '../../assets/disney.png'
 import NOMS from '../../assets/noms.png'
+import THESPOT from '../../assets/TheSpot.png'
 
 const data = [
   {
@@ -33,6 +34,13 @@ const data = [
     title: 'Noms Food Tracker',
     github: 'https://github.com/Jmajane/Noms',
     demo: 'https://noms-capstone.herokuapp.com/about/',
+  },
+  {
+    id: 5,
+    image: THESPOT,
+    title: 'Spot Occupational Therapy',
+    github: 'https://github.com/Jmajane/The-Spot-Mack-R',
+    demo: 'https://www.thespotllc.org/',
   },
 ]
 
