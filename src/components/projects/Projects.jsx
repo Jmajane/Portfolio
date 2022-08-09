@@ -40,7 +40,7 @@ const data = [
     image: THESPOT,
     title: 'Spot Occupational Therapy',
     github: 'https://github.com/Jmajane/The-Spot-Mack-R',
-    demo: 'https://thespotllc.netlify.app/',
+    demo: 'https://www.thespotllc.org/',
   },
 ]
 
