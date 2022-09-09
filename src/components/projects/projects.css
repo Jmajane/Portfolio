@@ -14,7 +14,7 @@
 
 .project__item:hover {
     border-color: var(--color-primary-variant);
-    background: transparent;
+    background:  rgb(16, 86, 237);
 }
 
 .project__item-image {
