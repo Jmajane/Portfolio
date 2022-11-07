@@ -1,6 +1,7 @@
 import React from 'react'
 import './testimonials.css'
 import AVTR1 from '../../assets/avatar.webp'
+import AVTR2 from '../../assets/Avtr2.jpeg'
 // import Swiper core and required modules
 import { Pagination} from 'swiper';
 
@@ -13,6 +14,11 @@ import 'swiper/css/pagination';
 
 
 const reviews = [
+  {
+    avatar: AVTR2,
+    name: "Lloyd Yates, MBA",
+    review: "Jordan has great team and communications skills, works well under pressure, and goes above and beyond to accomplish the task at hand. We had less than two weeks to come up with turnkey solution for Levi's and we wouldn't have succeeded without Jordan's efforts both in front end development and cross company collaboration.",
+  },
   {
     avatar: AVTR1,
     name: "Joshua Smith",
